@@ -1,2 +1,1 @@
-# dbms
-DBMS Project
+# Titanic
